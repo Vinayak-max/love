@@ -11,8 +11,8 @@ body .drawBox {
   position: relative;
   height: 100%;
   width: 100%;
-  max-height: 650px;
-  max-width: 650px;
+  max-height: 550px;
+  max-width: 550px;
 }
 
 body .drawBox .smallHearts {
