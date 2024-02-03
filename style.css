@@ -11,8 +11,8 @@ body .drawBox {
   position: relative;
   height: 100%;
   width: 100%;
-  max-height: 600px;
-  max-width: 600px;
+  max-height: 550px;
+  max-width: 550px;
 }
 
 body .drawBox .smallHearts {
@@ -116,8 +116,8 @@ body .mainHeart svg .drawHeart {
   stroke-width: 3px;
   stroke-dasharray: 1867.0498046875;
   stroke-dashoffset: 1867.0498046875;
-  -webkit-animation: draw 2s linear 0.3s forwards;
-  animation: draw 6s linear 0.1s forwards;
+  -webkit-animation: draw 3s linear 0.5s forwards;
+  animation: draw 5s linear 0.1s forwards;
 }
 
 @-webkit-keyframes draw {
@@ -164,7 +164,7 @@ body .photo {
 /* body .photo{
   width: 100px;
   height: 100px;
-  /* background-color: rgba(48, 45, 45, 0.718); */
+  /* background-color: rgba(48, 45, 45, 0.718); 
   position: absolute;
   animation-duration: 3s;
   animation-timing-function: linear;
