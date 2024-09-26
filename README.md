@@ -1,2 +1,2 @@
-# Vaishu
+# Vaishnavi
 Love
