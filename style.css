@@ -132,32 +132,32 @@ body .mainHeart svg .drawHeart {
   }
 }
 
-/* body .greeting {
+body .greeting {
   font-family: "Amatic SC", cursive;
   font-weight: bold;
   text-align: center;
   font-size: 35px;
   position: absolute;
-  bottom: -5%;
+  bottom: -10%;
   right: center;
   width: center;
   height: center;
-  line-height: 1;
-  overflow: hidden;
-  display: flex;
+  line-height: 2;
+/*   overflow: hidden; */
+  display: center;
   justify-content: center;
- */
-/* 
+
+
 }
- */
-.vaishnaviText {
+
+/* .vaishnaviText {
   text-align: center;
   margin-top: 20px; /* Adjust spacing as needed */
   font-family: "Amatic SC", cursive;
   font-size: 35px;
   color: red; /* Or any color */
 }
-
+ */
 body .photo {
   position: absolute;
   bottom: 80%;
