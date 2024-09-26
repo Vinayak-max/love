@@ -132,7 +132,7 @@ body .mainHeart svg .drawHeart {
   }
 }
 
-body .greeting {
+/* body .greeting {
   font-family: "Amatic SC", cursive;
   font-weight: bold;
   text-align: center;
@@ -146,8 +146,16 @@ body .greeting {
   overflow: hidden;
   display: flex;
   justify-content: center;
-
-
+ */
+/* 
+}
+ */
+.vaishnaviText {
+  text-align: center;
+  margin-top: 20px; /* Adjust spacing as needed */
+  font-family: "Amatic SC", cursive;
+  font-size: 35px;
+  color: red; /* Or any color */
 }
 
 body .photo {
