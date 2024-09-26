@@ -139,9 +139,9 @@ body .greeting {
   font-size: 35px;
   position: absolute;
   bottom: -5%;
-  right: auto;
-  width: auto;
-  height: auto;
+  right: center;
+  width: center;
+  height: center;
   line-height: 1;
   overflow: hidden;
   display: flex;
@@ -196,7 +196,7 @@ body .greeting .s {
 }
 
 body .greeting .s.space {
-  padding-left: 11px;
+  padding-left: 0px;
 }
 
 body .greeting .s.squeeze {
